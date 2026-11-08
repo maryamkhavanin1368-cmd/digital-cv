@@ -8,6 +8,11 @@ I have foundational IT knowledge and practical skills in computer applications.
 - Problam solving and logical thinking
 ## Education
 Pathway Program -Current student
+## Upcoming Studies
+
+**Metropolia University of Applied Sciences – Finland**
+
+Accepted to the Bachelor of Engineering programme in Information Technology, starting in Spring 2027.
 ## Goals
 - Become a student in IT in Finland
 - Develop strong programming and IT skills
